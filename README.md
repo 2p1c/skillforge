@@ -1,3 +1,7 @@
+🌐 Language:
+[English](README.md) | [中文](README.zh-CN.md)
+
+---
 # skillforge
 
 > Automatically turn real-world coding workflows into reusable Claude Code Skills.
